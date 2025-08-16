@@ -1,0 +1,3 @@
+ALTER TABLE customers ADD COLUMN address TEXT;
+ALTER TABLE customers ADD COLUMN mobile_no VARCHAR(20);
+ALTER TABLE customers ADD COLUMN gst_no VARCHAR(50);
